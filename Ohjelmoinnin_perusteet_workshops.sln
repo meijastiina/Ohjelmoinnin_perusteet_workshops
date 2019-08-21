@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_3_PrintingAMenu", "WS4_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_4_UsernameAndPassword", "WS4_4_UsernameAndPassword\WS4_4_UsernameAndPassword.csproj", "{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_5_RecordStore", "WS4_5_RecordStore\WS4_5_RecordStore.csproj", "{89561437-A2BC-4BB0-910E-070A1C40BE6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
