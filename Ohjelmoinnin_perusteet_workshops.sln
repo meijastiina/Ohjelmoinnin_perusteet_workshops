@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_2_EmailValidation", "WS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS3_7_LeapYear2", "WS3_7_LeapYear2\WS3_7_LeapYear2.csproj", "{D5006EB0-2BC3-467D-8255-A61A89B714A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_3_PrintingAMenu", "WS4_3_PrintingAMenu\WS4_3_PrintingAMenu.csproj", "{F907925F-8BE7-49D6-8894-C718B0FDB241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D5006EB0-2BC3-467D-8255-A61A89B714A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5006EB0-2BC3-467D-8255-A61A89B714A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5006EB0-2BC3-467D-8255-A61A89B714A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
