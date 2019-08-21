@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_4_UsernameAndPassword",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_5_RecordStore", "WS4_5_RecordStore\WS4_5_RecordStore.csproj", "{89561437-A2BC-4BB0-910E-070A1C40BE6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_6_PinCode", "WS4_6_PinCode\WS4_6_PinCode.csproj", "{A6EC5D6E-7444-4739-A00A-3B430762563D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89561437-A2BC-4BB0-910E-070A1C40BE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
