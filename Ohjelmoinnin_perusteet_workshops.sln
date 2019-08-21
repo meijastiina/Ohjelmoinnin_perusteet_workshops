@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS3_7_LeapYear2", "WS3_7_Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_3_PrintingAMenu", "WS4_3_PrintingAMenu\WS4_3_PrintingAMenu.csproj", "{F907925F-8BE7-49D6-8894-C718B0FDB241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_4_UsernameAndPassword", "WS4_4_UsernameAndPassword\WS4_4_UsernameAndPassword.csproj", "{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F907925F-8BE7-49D6-8894-C718B0FDB241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
