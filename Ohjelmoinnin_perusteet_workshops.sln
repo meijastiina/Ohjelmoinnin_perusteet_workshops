@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_6_PinCode", "WS4_6_PinC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_7_PrintingAMenu2", "WS4_7_PrintingAMenu2\WS4_7_PrintingAMenu2.csproj", "{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_1_MultiplicationTable", "WS5_1_MultiplicationTable\WS5_1_MultiplicationTable.csproj", "{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_1_MultiplicationTable", "WS5_1_MultiplicationTable\WS5_1_MultiplicationTable.csproj", "{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_2_ExchangeRateTable", "WS5_2_ExchangeRateTable\WS5_2_ExchangeRateTable.csproj", "{0646AB85-EC26-4F05-A315-B0CC28F1513E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_2_ExchangeRateTable", "WS5_2_ExchangeRateTable\WS5_2_ExchangeRateTable.csproj", "{0646AB85-EC26-4F05-A315-B0CC28F1513E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_3_CountingCharacters", "WS5_3_CountingCharacters\WS5_3_CountingCharacters.csproj", "{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_3_CountingCharacters", "WS5_3_CountingCharacters\WS5_3_CountingCharacters.csproj", "{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_4_LeapYearTable", "WS5_4_LeapYearTable\WS5_4_LeapYearTable.csproj", "{8980E034-8247-461C-9988-FF675F427DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8980E034-8247-461C-9988-FF675F427DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8980E034-8247-461C-9988-FF675F427DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8980E034-8247-461C-9988-FF675F427DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8980E034-8247-461C-9988-FF675F427DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
