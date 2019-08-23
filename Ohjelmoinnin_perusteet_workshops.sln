@@ -27,17 +27,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS3_6_LeapYear", "WS3_6_Lea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_1_NumberComparer", "WS4_1_NumberComparer\WS4_1_NumberComparer.csproj", "{7DDCC9F4-88EA-442E-9501-C0E8A2DC2233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_2_EmailValidation", "WS4_2_EmailValidation\WS4_2_EmailValidation.csproj", "{C49DD094-6BF0-455B-8964-60F0A2406D9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_2_EmailValidation", "WS4_2_EmailValidation\WS4_2_EmailValidation.csproj", "{C49DD094-6BF0-455B-8964-60F0A2406D9A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS3_7_LeapYear2", "WS3_7_LeapYear2\WS3_7_LeapYear2.csproj", "{D5006EB0-2BC3-467D-8255-A61A89B714A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_3_PrintingAMenu", "WS4_3_PrintingAMenu\WS4_3_PrintingAMenu.csproj", "{F907925F-8BE7-49D6-8894-C718B0FDB241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_3_PrintingAMenu", "WS4_3_PrintingAMenu\WS4_3_PrintingAMenu.csproj", "{F907925F-8BE7-49D6-8894-C718B0FDB241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_4_UsernameAndPassword", "WS4_4_UsernameAndPassword\WS4_4_UsernameAndPassword.csproj", "{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_4_UsernameAndPassword", "WS4_4_UsernameAndPassword\WS4_4_UsernameAndPassword.csproj", "{AD1F639E-A44E-42C4-A22B-CB31E042CA0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_5_RecordStore", "WS4_5_RecordStore\WS4_5_RecordStore.csproj", "{89561437-A2BC-4BB0-910E-070A1C40BE6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_5_RecordStore", "WS4_5_RecordStore\WS4_5_RecordStore.csproj", "{89561437-A2BC-4BB0-910E-070A1C40BE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS4_6_PinCode", "WS4_6_PinCode\WS4_6_PinCode.csproj", "{A6EC5D6E-7444-4739-A00A-3B430762563D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_6_PinCode", "WS4_6_PinCode\WS4_6_PinCode.csproj", "{A6EC5D6E-7444-4739-A00A-3B430762563D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_7_PrintingAMenu2", "WS4_7_PrintingAMenu2\WS4_7_PrintingAMenu2.csproj", "{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_1_MultiplicationTable", "WS5_1_MultiplicationTable\WS5_1_MultiplicationTable.csproj", "{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6EC5D6E-7444-4739-A00A-3B430762563D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB7E693-CA3A-4597-8D4B-14AC61A3D5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
