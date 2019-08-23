@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_4_LeapYearTable", "WS5_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_5_OtherWayRound", "WS5_5_OtherWayRound\WS5_5_OtherWayRound.csproj", "{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_6_Palindrome", "WS5_6_Palindrome\WS5_6_Palindrome.csproj", "{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
