@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_6_Palindrome", "WS5_6_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_7_LetterGuessing", "WS5_7_LetterGuessing\WS5_7_LetterGuessing.csproj", "{285B3337-0D6F-4C7B-AB41-192D46610927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_8_Triangle", "WS5_8_Triangle\WS5_8_Triangle.csproj", "{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{285B3337-0D6F-4C7B-AB41-192D46610927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285B3337-0D6F-4C7B-AB41-192D46610927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285B3337-0D6F-4C7B-AB41-192D46610927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
