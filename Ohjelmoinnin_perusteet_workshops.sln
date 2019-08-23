@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS4_7_PrintingAMenu2", "WS4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_1_MultiplicationTable", "WS5_1_MultiplicationTable\WS5_1_MultiplicationTable.csproj", "{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_2_ExchangeRateTable", "WS5_2_ExchangeRateTable\WS5_2_ExchangeRateTable.csproj", "{0646AB85-EC26-4F05-A315-B0CC28F1513E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F2EDA2-FC2B-423B-BDD5-2C88DFF89D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0646AB85-EC26-4F05-A315-B0CC28F1513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0646AB85-EC26-4F05-A315-B0CC28F1513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0646AB85-EC26-4F05-A315-B0CC28F1513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0646AB85-EC26-4F05-A315-B0CC28F1513E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
