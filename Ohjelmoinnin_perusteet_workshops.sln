@@ -47,29 +47,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_2_ExchangeRateTable", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_3_CountingCharacters", "WS5_3_CountingCharacters\WS5_3_CountingCharacters.csproj", "{F5EB3761-0D30-4DC1-BB01-E88432A80BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_4_LeapYearTable", "WS5_4_LeapYearTable\WS5_4_LeapYearTable.csproj", "{8980E034-8247-461C-9988-FF675F427DE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_4_LeapYearTable", "WS5_4_LeapYearTable\WS5_4_LeapYearTable.csproj", "{8980E034-8247-461C-9988-FF675F427DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_5_OtherWayRound", "WS5_5_OtherWayRound\WS5_5_OtherWayRound.csproj", "{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_5_OtherWayRound", "WS5_5_OtherWayRound\WS5_5_OtherWayRound.csproj", "{58253EEE-4FE9-4CB8-A44B-DC7B8BB3F91A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_6_Palindrome", "WS5_6_Palindrome\WS5_6_Palindrome.csproj", "{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_6_Palindrome", "WS5_6_Palindrome\WS5_6_Palindrome.csproj", "{B57A30AA-48F0-4017-AAD0-8EBA56EBF1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_7_LetterGuessing", "WS5_7_LetterGuessing\WS5_7_LetterGuessing.csproj", "{285B3337-0D6F-4C7B-AB41-192D46610927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_7_LetterGuessing", "WS5_7_LetterGuessing\WS5_7_LetterGuessing.csproj", "{285B3337-0D6F-4C7B-AB41-192D46610927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_8_Triangle", "WS5_8_Triangle\WS5_8_Triangle.csproj", "{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS5_8_Triangle", "WS5_8_Triangle\WS5_8_Triangle.csproj", "{9350D5FD-C48F-4B9F-AAA5-9A17EB95AB56}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS5_9_Hangman", "Hangman\WS5_9_Hangman.csproj", "{745F986C-3104-47FF-B09F-5BD13278C1AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_1_LettersAndNumbers", "WS6_1_LettersAndNumbers\WS6_1_LettersAndNumbers.csproj", "{25ABF599-8FBE-453B-A159-2B6F5AA1028B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_1_LettersAndNumbers", "WS6_1_LettersAndNumbers\WS6_1_LettersAndNumbers.csproj", "{25ABF599-8FBE-453B-A159-2B6F5AA1028B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_2_LoremIpsum", "WS6_2_LoremIpsum\WS6_2_LoremIpsum.csproj", "{3879C355-DCF0-4865-BDBD-E41F6980E61F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_2_LoremIpsum", "WS6_2_LoremIpsum\WS6_2_LoremIpsum.csproj", "{3879C355-DCF0-4865-BDBD-E41F6980E61F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_3_SumOfNumbers", "WS6_3_SumOfNumbers\WS6_3_SumOfNumbers.csproj", "{A10F1FFA-6227-4E8A-A089-8A4491D56D03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_3_SumOfNumbers", "WS6_3_SumOfNumbers\WS6_3_SumOfNumbers.csproj", "{A10F1FFA-6227-4E8A-A089-8A4491D56D03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_4_CircumferenceOfCircle", "WS6_4_CircumferenceOfCircle\WS6_4_CircumferenceOfCircle.csproj", "{9F3BA692-0953-4FC0-AC42-C68B8BBBC4D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_4_CircumferenceOfCircle", "WS6_4_CircumferenceOfCircle\WS6_4_CircumferenceOfCircle.csproj", "{9F3BA692-0953-4FC0-AC42-C68B8BBBC4D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_5_EmailAsker", "WS6_5_EmailAsker\WS6_5_EmailAsker.csproj", "{C8CCE9FF-027A-4069-98EA-9B85F86EC630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_5_EmailAsker", "WS6_5_EmailAsker\WS6_5_EmailAsker.csproj", "{C8CCE9FF-027A-4069-98EA-9B85F86EC630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS6_6_Smileys", "WS6_6_Smileys\WS6_6_Smileys.csproj", "{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_6_Smileys", "WS6_6_Smileys\WS6_6_Smileys.csproj", "{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_1_CreatingAndLoopingThroughArray", "WS7_1_CreatingAndLoopingThroughArray\WS7_1_CreatingAndLoopingThroughArray.csproj", "{F2DDF0D2-A502-4354-B52A-36AD03468CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DDF0D2-A502-4354-B52A-36AD03468CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DDF0D2-A502-4354-B52A-36AD03468CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DDF0D2-A502-4354-B52A-36AD03468CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DDF0D2-A502-4354-B52A-36AD03468CBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
