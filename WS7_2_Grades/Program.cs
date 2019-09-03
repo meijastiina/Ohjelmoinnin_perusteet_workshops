@@ -8,7 +8,7 @@ namespace WS7_2_Grades
         {
             // -	Create a program that asks for grades for five assignments and stores them in an integer array. 
             int[] grades = new int[5];
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++) // Loops through the array from first to last item
             {
                 // We have a +1 here because we start indexing from 0 but usually for humans we start from 1
                 Console.Write($"Enter the grade for assignment { i + 1 }: "); 
