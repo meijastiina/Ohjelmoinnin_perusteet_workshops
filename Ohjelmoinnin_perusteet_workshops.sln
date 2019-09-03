@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_2_Grades", "WS7_2_Grade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_3_Linear_Search", "WS7_3_Linear_Search\WS7_3_Linear_Search.csproj", "{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_4_WorkingWithIndices", "WS7_4_WorkingWithIndices\WS7_4_WorkingWithIndices.csproj", "{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
