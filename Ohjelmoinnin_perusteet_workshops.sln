@@ -71,17 +71,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_5_EmailAsker", "WS6_5_E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS6_6_Smileys", "WS6_6_Smileys\WS6_6_Smileys.csproj", "{7795F38A-EAF7-40C6-89B6-5B6DF776EFF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_1_CreatingAndLoopingThroughArray", "WS7_1_CreatingAndLoopingThroughArray\WS7_1_CreatingAndLoopingThroughArray.csproj", "{F2DDF0D2-A502-4354-B52A-36AD03468CBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_1_CreatingAndLoopingThroughArray", "WS7_1_CreatingAndLoopingThroughArray\WS7_1_CreatingAndLoopingThroughArray.csproj", "{F2DDF0D2-A502-4354-B52A-36AD03468CBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_2_Grades", "WS7_2_Grades\WS7_2_Grades.csproj", "{BEEFDF18-4435-49D3-BE2D-B8D6B7EEE83F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_2_Grades", "WS7_2_Grades\WS7_2_Grades.csproj", "{BEEFDF18-4435-49D3-BE2D-B8D6B7EEE83F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_3_Linear_Search", "WS7_3_Linear_Search\WS7_3_Linear_Search.csproj", "{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_3_Linear_Search", "WS7_3_Linear_Search\WS7_3_Linear_Search.csproj", "{DE4CE5A2-EB13-4EC5-A1C7-11DBBB2FEC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_4_WorkingWithIndices", "WS7_4_WorkingWithIndices\WS7_4_WorkingWithIndices.csproj", "{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_4_WorkingWithIndices", "WS7_4_WorkingWithIndices\WS7_4_WorkingWithIndices.csproj", "{35CC5F72-0CD6-4BAB-835B-D2610A82F4EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_5_SmallestAndLargestWithRandomNumbers", "WS7_5_SmallestAndLargestWithRandomNumbers\WS7_5_SmallestAndLargestWithRandomNumbers.csproj", "{069933CA-E142-4DB2-8EE6-BF29B2B8BA81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_5_SmallestAndLargestWithRandomNumbers", "WS7_5_SmallestAndLargestWithRandomNumbers\WS7_5_SmallestAndLargestWithRandomNumbers.csproj", "{069933CA-E142-4DB2-8EE6-BF29B2B8BA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_6_Battleship", "WS7_6_Battleship\WS7_6_Battleship.csproj", "{1CBCA137-604D-4C67-8727-DD14D3B55478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WS7_6_Battleship", "WS7_6_Battleship\WS7_6_Battleship.csproj", "{1CBCA137-604D-4C67-8727-DD14D3B55478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS7_1_CreatingAndLoopingThroughArray_List", "WS7_1_CreatingAndLoopingThroughArray_List\WS7_1_CreatingAndLoopingThroughArray_List.csproj", "{037F36C1-F3AD-4A6A-9055-0F6D6C472ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{1CBCA137-604D-4C67-8727-DD14D3B55478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CBCA137-604D-4C67-8727-DD14D3B55478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CBCA137-604D-4C67-8727-DD14D3B55478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037F36C1-F3AD-4A6A-9055-0F6D6C472ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037F36C1-F3AD-4A6A-9055-0F6D6C472ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037F36C1-F3AD-4A6A-9055-0F6D6C472ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037F36C1-F3AD-4A6A-9055-0F6D6C472ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
